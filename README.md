@@ -1,1 +1,2 @@
-# D[ecode] A[rchive] D[aemon]
+# External Block Decode for Rust
+A shortcut to decoding substrate using WASM and Polkadot.JS
